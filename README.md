@@ -7,7 +7,7 @@ This guide provides instructions for integrating the KwikPaisa PHP SDK into your
 
 ## Installation
 
-### Option 1: Download the Package File
+# Option 1: Download the Package File
 
 #### 1. Download the Package:
 Download the latest version of the [`kwikpaisa-php-packages.zip`](https://github.com/jangras-developer/kwikpaisa-php-sdk/archive/refs/heads/main.zip) file from the KwikPaisa website or repository.
@@ -49,7 +49,7 @@ php artisan cache:clear
 #### 7. Initialize and Use the SDK:
 Initialize the SDK in your code as described in the SDK documentation and start using it.
 
-### Option 2: Install via Composer
+# Option 2: Install via Composer
 
 #### 1. Require the SDK:
 Execute the following Composer command to install the KwikPaisa SDK:
