@@ -38,3 +38,24 @@ php artisan cache:clear
 
 ## Initialize and Use the SDK:
 Initialize the SDK in your code as described in the SDK documentation and start using it.
+
+
+
+# Option 2: Install via Composer
+## Require the SDK:
+Execute the following Composer command to install the KwikPaisa SDK:
+composer require jangras/kwikpaisa-sdk
+
+## Composer Installation:
+Composer will automatically download and install the SDK and its dependencies.
+
+## Autoloading:
+Composer will handle autoloading of SDK classes, so no additional autoload configuration is necessary.
+
+## Clear Laravel's Configuration and Cache:
+Run these Artisan commands to ensure Laravel picks up the new changes:
+php artisan config:clear
+php artisan cache:clear
+Initialize and Use the SDK:
+
+## After installation, initialize the SDK in your code as described in the SDK documentation and start using it.
