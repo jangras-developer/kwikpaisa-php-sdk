@@ -29,7 +29,8 @@ Replace "path/to/kwikpaisa/src/" with the actual path where you copied the kwikp
 
 ## Update Composer Autoload:
 Run the following command to regenerate the Composer autoload files:
-composer dump-autoload
+```bash
+composer require jangras/kwikpaisa
 
 ## Clear Laravel's Configuration and Cache:
 Run these Artisan commands to ensure Laravel picks up the new changes:
