@@ -10,10 +10,10 @@ This guide provides instructions for integrating the KwikPaisa PHP SDK into your
 ### Option 1: Download the Package File
 
 #### 1. Download the Package:
-Download the latest version of the [`kwikpaisa-php-packages.zip`] (https://github.com/jangras-developer/kwikpaisa-php-sdk/archive/refs/heads/main.zip) file from the KwikPaisa website or repository.
+Download the latest version of the [`kwikpaisa-php-packages.zip`](https://github.com/jangras-developer/kwikpaisa-php-sdk/archive/refs/heads/main.zip) file from the KwikPaisa website or repository.
 
 #### 2. Extract the Package:
-Unzip the [`kwikpaisa-php-packages.zip`] (https://github.com/jangras-developer/kwikpaisa-php-sdk/archive/refs/heads/main.zip) file to extract the SDK and its dependencies.
+Unzip the [`kwikpaisa-php-packages.zip`](https://github.com/jangras-developer/kwikpaisa-php-sdk/archive/refs/heads/main.zip) file to extract the SDK and its dependencies.
 
 #### 3. Include the SDK in Your Project:
 Copy the extracted `kwikpaisa` folder into your project’s directory. For example, place it in the `packages` folder.
