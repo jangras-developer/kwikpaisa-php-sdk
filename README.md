@@ -30,3 +30,11 @@ Replace "path/to/kwikpaisa/src/" with the actual path where you copied the kwikp
 ## Update Composer Autoload:
 Run the following command to regenerate the Composer autoload files:
 composer dump-autoload
+
+## Clear Laravel's Configuration and Cache:
+Run these Artisan commands to ensure Laravel picks up the new changes:
+php artisan config:clear
+php artisan cache:clear
+
+## Initialize and Use the SDK:
+Initialize the SDK in your code as described in the SDK documentation and start using it.
