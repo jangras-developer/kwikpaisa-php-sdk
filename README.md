@@ -26,3 +26,7 @@ JSON
 }
 
 Replace "path/to/kwikpaisa/src/" with the actual path where you copied the kwikpaisa folder.
+
+## Update Composer Autoload:
+Run the following command to regenerate the Composer autoload files:
+composer dump-autoload
