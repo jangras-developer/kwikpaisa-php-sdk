@@ -1,0 +1,23 @@
+{
+    "name": "jangras/kwikpaisa",
+    "description": "A Laravel package for integrating KwikPaisa payment gateway.",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jangras Developer Team",
+            "email": "developer@jangras.co"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jangras\\Kwikpaisa\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.2",
+        "guzzlehttp/guzzle": "^7.0",
+        "illuminate/support": "^11.0"
+    }
+}
