@@ -80,5 +80,4 @@ After installation, initialize the SDK in your code as described in the SDK docu
 To get sample code and usage instructions for the KwikPaisa NEO Bank - PG SDK, refer to the official documentation:
 
 [KwikPaisa PHP SDK Documentation](https://kwikpaisa-neo-bank.readme.io/reference/kwikpaisas-php-sdk)
-```
 
