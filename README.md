@@ -1,6 +1,5 @@
-Here's how you can format your `README.md` with the provided instructions:
+```markdown```
 
-```markdown
 # KwikPaisa PHP SDK Integration Guide
 
 ## Overview
@@ -83,4 +82,3 @@ To get sample code and usage instructions for the KwikPaisa NEO Bank - PG SDK, r
 [KwikPaisa PHP SDK Documentation](https://kwikpaisa-neo-bank.readme.io/reference/kwikpaisas-php-sdk)
 ```
 
-This format should make your `README.md` file clear and easy to follow for users who want to integrate the KwikPaisa SDK into their projects.
