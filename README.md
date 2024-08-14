@@ -59,3 +59,7 @@ php artisan cache:clear
 Initialize and Use the SDK:
 
 ## After installation, initialize the SDK in your code as described in the SDK documentation and start using it.
+
+
+## To get sample code and uses of KwikPaisa NEO Bank - PG SDK refer
+https://kwikpaisa-neo-bank.readme.io/reference/kwikpaisas-php-sdk 
