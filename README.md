@@ -55,7 +55,7 @@ Initialize the SDK in your code as described in the SDK documentation and start 
 Execute the following Composer command to install the KwikPaisa SDK:
 
 ```bash
-composer require jangras/kwikpaisa-sdk
+composer require jangras/kwikpaisa
 ```
 
 #### 2. Composer Installation:
